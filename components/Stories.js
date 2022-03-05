@@ -41,7 +41,7 @@ const Stories = () => {
             <Image source={{uri:story}} Style={{height:100,width:100,borderRadius:10}}  />
         ))}
          </ScrollView>
-        <Text>gasdfasasdfsf</Text>
+        <Text>Hello000000</Text>
         
 
     </View>
